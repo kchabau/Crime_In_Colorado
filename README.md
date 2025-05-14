@@ -88,9 +88,3 @@ To read more about the results, please refer to the [Results folder](/Results/) 
 **Title**: Crimes in Colorado  
 **Source**: [Colorado Department of Public Safety](https://data.colorado.gov/Public-Safety/Crimes-in-Colorado/j6g4-gayk/about_data)  
 **License**: Public Domain / Open Data  
-
----
-
-## Hindsight is 20/20
-
-I should have formulated the months through string selection first, before attempting to convert the format to a valid one for SQL. I could have retrieve
